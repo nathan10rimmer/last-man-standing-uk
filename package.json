@@ -1,0 +1,17 @@
+{
+  "name": "last-man-standing-uk",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Premier League Last Man Standing platform starter",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.0"
+  }
+}
